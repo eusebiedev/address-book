@@ -2,7 +2,7 @@
 
 #### Pair-prgramming by: _Joe Wilfong, Chris Davila, Eusebie Siebenberg_
 
-#### _Contact details form entry and display._
+#### _Contact Form Practice._
 
 ## Technologies Used
 
@@ -13,7 +13,7 @@
 
 ## Description
 
-_A practice application to enable user to input basic contact information, which is then displayed back to the user._
+_A practice application to enable user to input basic contact information, which is then displayed back to the user, and user can then delete their contact information from database._
 
 ## Setup/Installation Requirements
 
@@ -23,7 +23,7 @@ _A practice application to enable user to input basic contact information, which
 
 ## Known Bugs
 
-* __
+* _No known bugs as of 4/3/23_
 
 ## LICENSE
 
