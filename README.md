@@ -20,7 +20,6 @@ _A practice application to enable user to input basic contact information, which
 * _Clone repository_
 * _Navigate to address-book project root folder_
 * _Locate and open index.html_
-__
 
 ## Known Bugs
 
